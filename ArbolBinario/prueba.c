@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include "TADArbolBin.h"
-
+/*este programa fue echo por el profesor edgardo */
 int main (void)
 {
 	arbol_bin a;

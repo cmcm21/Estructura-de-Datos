@@ -298,8 +298,7 @@ void Descomprimir(char cadena[])
 }
 /*RECIBE: nada
 DEVUELVE: nada
-Esta funcion se encarga de que imprimir el codigo de huffman de cada
-simbolo que hay en el arbol de huffman*/
+Esta funcion se encarga de que imprimir el codigo de huffman de cada simbolo que hay en el arbol de huffman*/
 void imprimirHuffman(void)
 {
 	int i;
